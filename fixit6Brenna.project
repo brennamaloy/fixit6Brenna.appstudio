@@ -26,6 +26,22 @@
             "Form1",
             "Form1.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "pets",
+            "pets.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form2",
+            "Form2.json"
+          ]
         }
       ],
       "configxml": null,
